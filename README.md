@@ -1,2 +1,2 @@
-# nixod-tailscale
+# nixos-tailscale
 Nixos - tailscale 
