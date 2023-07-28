@@ -1,0 +1,2 @@
+# nixod-tailscale
+Nixos - tailscale 
